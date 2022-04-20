@@ -1,5 +1,4 @@
-## Scraping Reddit and Subreddits website posts 
- (wallstreetbets &amp; GME) and posts
+## Scraping Reddit.com Subreddits and Individual Posts 
 
 <p>Utilizing Data Science tools to scrape subreddit posts (wallstreetbets and GME) to assess what are the highest scoring posts and output the url's for further examination 
 <p>(The entire Code block is higher up on this GitHub web page "Code_Crude..." or [https://github.com/jmenacho1/Crude_Vs._Retail/blob/main/Code_Crude_XLP_XLY.ipynb]
