@@ -1,4 +1,4 @@
-## Scraping Reddit.com Subreddits and Individual Posts 
+## Scraping Reddit.com Subreddits and Individual Posts
 
 <p>Utilizing Data Science tools to learn about stock specific sentiment in an effort to help understand Positioning.
 
