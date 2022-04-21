@@ -18,7 +18,7 @@
 
 ![thirdimage](/Images/subreddit_3.jpg)
 
-## _Extract a specific url and output comments_ 
+## _Extract a specific url and output comments_
 
 ![fourthimage](/Images/subreddit_4.jpg)
 
