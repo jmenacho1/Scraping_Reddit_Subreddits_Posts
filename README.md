@@ -26,7 +26,7 @@
 
 ![fifthimage](/Images/subreddit_5.jpg)
 
-## _Find the highest scoring posts of the week on subreddit "GME" and output results_ 
+## _Find the highest scoring posts of the week on subreddit "GME" and output results_
 
 
 ![sixthimage](/Images/subreddit_6.jpg)
