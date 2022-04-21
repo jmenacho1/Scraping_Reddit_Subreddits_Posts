@@ -17,7 +17,6 @@
 
 ## _Find the highest scoring posts of the day on wallstreetbets and output results_ 
 
-
 ![thirdimage](/Images/subreddit_3.jpg)
 
 ## _Extract a specific url and extract comments_ 
