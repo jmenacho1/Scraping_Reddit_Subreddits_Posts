@@ -7,7 +7,6 @@
 <p>(The entire Code block is higher up on this GitHub web page "Code_Scraping..." or [https://github.com/jmenacho1/Scraping_Reddit_Subreddits_Posts/blob/main/Code_Scraping_Reddit_subReddits.ipynb].)
 
 
-
 ## _Import Libraries & Data Packages_
 ![firstimage](/Images/subreddit_1.jpg)
 
